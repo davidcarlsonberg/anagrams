@@ -5,6 +5,7 @@ require 'sinatra/reloader'
 require 'sinatra/flash'
 require 'Mustache'
 require 'pry'
+#don't need to require these here as they are in the gemfile
 
 # COMMAND LINE ARGUMENT VERSION
 # word1 = ARGV[0]
