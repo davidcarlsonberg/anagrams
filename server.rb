@@ -2,7 +2,7 @@ require './lib/connection.rb'
 require './lib/classes.rb'
 require 'sinatra'
 require 'sinatra/reloader'
-# require 'Mustache'
+require 'mustache'
 require 'pry'
 #don't need to require these here as they are in the gemfile
 
